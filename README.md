@@ -1,7 +1,7 @@
 # astrophysics
 [书库主页](https://catodee.github.io/)
 
-第二书库: 天体物理专业教材
+天体物理专业教材
 
 
 
